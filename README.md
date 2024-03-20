@@ -1,66 +1,31 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="container">
+        <h1>Sistema de Chamados - Facilitando a Comunicação e Organização</h1>
+        <h2>Introdução:</h2>
+        <p>O Sistema de Chamados é uma plataforma desenvolvida utilizando a robusta combinação do Laravel 10 e PHP 8.1, projetada para otimizar e simplificar o processo de comunicação interna e organização de demandas em uma empresa. Com uma interface intuitiva e recursos poderosos, nosso sistema visa aumentar a eficiência operacional, melhorar a colaboração entre equipes e garantir que nenhum pedido ou problema seja deixado de lado.</p>
+        <h2>Recursos Principais:</h2>
+        <ul>
+            <li><strong>Criação de Chamados:</strong> Os usuários podem facilmente criar novos chamados, fornecendo detalhes específicos sobre a natureza do problema ou solicitação.</li>
+            <li><strong>Atribuição de Responsabilidades:</strong> Com a capacidade de atribuir chamados a membros específicos da equipe, garantimos uma clara definição de responsabilidades e accountability.</li>
+            <li><strong>Priorização Inteligente:</strong> Os chamados podem ser categorizados e priorizados com base em sua urgência e impacto nos negócios.</li>
+            <li><strong>Acompanhamento Transparente:</strong> Os usuários podem monitorar o status de seus chamados em tempo real, proporcionando transparência e confiança no processo.</li>
+            <li><strong>Relatórios e Métricas:</strong> O sistema gera relatórios detalhados sobre o desempenho da equipe, incluindo métricas como tempo médio de resolução, volume de chamados por período e índices de satisfação do cliente.</li>
+        </ul>
+        <h2>Benefícios:</h2>
+        <ul>
+            <li><strong>Eficiência Operacional:</strong> Redução do tempo gasto na gestão manual de chamados, permitindo que a equipe se concentre em tarefas mais importantes.</li>
+            <li><strong>Colaboração Aprimorada:</strong> Facilita a colaboração entre membros da equipe, promovendo uma abordagem coesa para lidar com problemas e solicitações.</li>
+            <li><strong>Satisfação do Cliente:</strong> Respostas mais rápidas e soluções eficazes levam a uma maior satisfação do cliente, fortalecendo a reputação da empresa.</li>
+            <li><strong>Tomada de Decisão Informada:</strong> Relatórios detalhados fornecem insights valiosos para aprimorar processos e alocar recursos de forma mais eficaz.</li>
+        </ul>
+        <h2>Conclusão:</h2>
+        <p>O Sistema de Chamados baseado em Laravel 10 e PHP 8.1 é uma ferramenta essencial para qualquer empresa que busque otimizar sua comunicação interna e gerenciar eficazmente suas demandas. Com recursos poderosos e uma abordagem centrada no usuário, estamos capacitando equipes a trabalharem de forma mais inteligente, ágil e colaborativa. Investir em nosso sistema é investir no sucesso e crescimento contínuo de sua organização.</p>
+    </div>
+</body>
+</html>
