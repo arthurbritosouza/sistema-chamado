@@ -75,7 +75,7 @@
     <h2>Login</h2>
     <form action="{{ route('login.store') }}" method="POST">
       @csrf
-      <input type="email" name="email" value="admin@admin.com" placeholder="Usuário">
+      <input type="email" name="email" value="" placeholder="Usuário">
 
       <div class="actions">
         <a class="criar-conta" href="/cadastrar_usuario_form">Cadastrar conta</a>
