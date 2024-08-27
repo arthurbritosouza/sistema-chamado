@@ -27,5 +27,40 @@
         <h2>Conclusão:</h2>
         <p>O Sistema de Chamados baseado em Laravel 10 e PHP 8.1 é uma ferramenta essencial para qualquer empresa que busque otimizar sua comunicação interna e gerenciar eficazmente suas demandas. Com recursos poderosos e uma abordagem centrada no usuário, estamos capacitando equipes a trabalharem de forma mais inteligente, ágil e colaborativa. Investir em nosso sistema é investir no sucesso e crescimento contínuo de sua organização.</p>
     </div>
+    ### Pré-requisitos
+- Composer para gerenciar dependências PHP.
+- Php 8.3.10
+- Laravel 10.46.0
+### Instalação
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/seu-usuario/seu-repositorio.git
+    cd seu-repositorio
+    ```
+
+2. Configure o ambiente:
+    ```bash
+    cp .env.example .env
+    php artisan key:generate
+    ```
+
+3. Instale as dependências:
+    ```bash
+    composer install
+    npm install
+    ```
+
+4. Rode as migrações do banco de dados:
+    ```bash
+    php artisan migrate
+    ```
+
+5. Suba o servidor web:
+    ```bash
+    php artisan serve
+    ```
+
+### Uso
 </body>
 </html>
