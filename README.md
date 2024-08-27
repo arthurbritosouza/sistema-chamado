@@ -60,7 +60,5 @@
     ```bash
     php artisan serve
     ```
-
-### Uso
 </body>
 </html>
